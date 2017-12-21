@@ -34,7 +34,7 @@ $lang_cse_apis = array(
 );
 $navs = array('member/home','member/login','member/register','intro','bmi','lunar','donate','2048','race','race/1','race/2','race/3','co','fish','proverbs','contact','author');
 $adsense_navs = array('member/login','member/register','intro','bmi','lunar','donate','2048','race','race/1','race/2','race/3','co','fish','proverbs','contact');
-$first_domain = 'nhipsinhhoc.vn';
+$first_domain = 'nhipsinhhoc.herokuapp.com';
 $second_domain = 'biorhythm.xyz';
 require realpath($_SERVER['DOCUMENT_ROOT']).'/includes/prep.inc.php';
 $brand = 'Nhip Sinh Hoc . VN';
